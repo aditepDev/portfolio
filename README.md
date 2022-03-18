@@ -22,7 +22,7 @@ https://dairy.zyanwoa.com/
 - DDC -   ระบบจัดการน้ำนมดิบ (อสค.)
 ## ML/AI
 
-- Personalizen Data -  Model ทำนาย ราคา,ผลผลิต,ต้นทุน การเกษตรของแต่ละพื้นที่ของประเทศไทย (กรมส่งการเกษตร)
+- Personalizen Data -  Model ทำนาย ราคา,ผลผลิต,ต้นทุน การเกษตรของแต่ละพื้นที่ของประเทศไทย (กรมส่งเสริมการเกษตร)
 
 - [OpenWorkOut](https://github.com/topkoka/OpenWorkOut "OpenWorkOut") -   AI  วิเคราะห์ท่าทางการออกกำลังกาย (Final Project  : IT MSU)
 	https://github.com/aditepDev/Project1-2
