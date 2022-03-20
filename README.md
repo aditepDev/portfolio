@@ -1,3 +1,6 @@
+## Profile
+[Linkedin](https://www.linkedin.com/in/aditep-campira/)
+
 ## Certificate
 - ISO/IEC 29110 ปี 2564 : Service Incident
 
