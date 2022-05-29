@@ -4,7 +4,13 @@
 [Resume](https://drive.google.com/file/d/1zovhGj8xxEpsMJw5TCSV_jMhGBPClmom/view?usp=sharing)
 
 ## Certificate
-- ISO/IEC 29110 ปี 2564 : Service Incident
+ISO/IEC 29110 | Service Incident
+: Digital Economy Promotion Agency (depa) of Thailand 
+: August 2021
+
+Java Software Engineering Bootcamp #1
+: Skooldio 
+: March 2022  
 
 [Certificate](https://drive.google.com/drive/folders/10F_YJC805-0xZfS7aUjXNse4-R1UgIRH?usp=sharing)
 ## Back-End
