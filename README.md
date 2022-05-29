@@ -18,7 +18,7 @@ Java Software Engineering Bootcamp #1
 ตัวอย่าง code
 https://github.com/aditepDev/assignment-java-boot-camp/tree/feature/week1
 
-- เซียนวัว - ตลาดโคออนไลน์ 24 ชั่วโมง
+- Zyanwoa Emarket - ตลาดโคออนไลน์ 24 ชั่วโมง
 https://play.google.com/store/apps/details?id=com.zyanwoa.emarket
 
 - zyan vet - แอปพลิเคชันสำหรับสัตวแพทย์ รับการแจ้งสัตว์ป่วย
