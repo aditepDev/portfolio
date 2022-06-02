@@ -16,7 +16,7 @@ Java Software Engineering Bootcamp #1
 ## Back-End
 
 ตัวอย่าง code
-https://github.com/aditepDev/assignment-java-boot-camp/tree/feature/week1
+[Spring Boot JPA](https://github.com/aditepDev/demo-spring-boot-jpa)
 
 - Zyanwoa Emarket - ตลาดโคออนไลน์ 24 ชั่วโมง
 https://play.google.com/store/apps/details?id=com.zyanwoa.emarket
