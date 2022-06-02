@@ -26,6 +26,9 @@ https://play.google.com/store/apps/details?id=com.zyanvet
 
 - Treebank - ระบบจัดการธนาคารต้นไม้ (ธ.ก.ส.) (Mobile App)
 
+Tools:
+Java Spring boot JPA,MariaDB
+
 ## Web developer
 - Zyan beef - ระบบบริหารจัดการฟาร์มโคเนื้อ
 https://beef.zyanwoa.com/
@@ -35,9 +38,16 @@ https://dairy.zyanwoa.com/
 
 - Treebank - ระบบจัดการธนาคารต้นไม้ (ธ.ก.ส.) (Web App)
 - DDC -   ระบบจัดการน้ำนมดิบ (อสค.)
+
+Tools:
+Java,JSP,JS,MySQL,MariaDB
+
 ## ML/AI
 
 - Personalizen Data -  Model ทำนาย ราคา,ผลผลิต,ต้นทุน การเกษตรของแต่ละพื้นที่ของประเทศไทย (กรมส่งเสริมการเกษตร)
 
 - [OpenWorkOut](https://github.com/topkoka/OpenWorkOut "OpenWorkOut") -   AI  วิเคราะห์ท่าทางการออกกำลังกาย (Final Project  : IT MSU)
 	[Project1-2](https://github.com/aditepDev/Project1-2)
+	
+Tools:
+Python, Tensorflow, MySQL , Oracle , SQL Server, PostgreSQL, MariaDB
